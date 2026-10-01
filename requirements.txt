@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+Flask==3.0.2
+Flask-WTF==1.2.1
+Flask-Bootstrap==3.3.7.1
+Pillow==10.2.0
+torch==2.2.1+cpu
+torchvision==0.17.1+cpu
+gunicorn==21.2.0
+Werkzeug==3.0.1
